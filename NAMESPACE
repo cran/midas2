@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+export("hc_platform")
+importFrom(coda,as.mcmc)
+importFrom(MCMCpack,rdirichlet)
+importFrom(R2jags,jags)
+importFrom(stats,runif)
+importFrom(stats,rbinom)
+importFrom(stats,pbeta)
