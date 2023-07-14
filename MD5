@@ -1,4 +1,6 @@
-01f404ca73d0ee3bef4b4d01f899d698 *DESCRIPTION
-eee94d4b53175a62d639ce6a7a988104 *NAMESPACE
-09f20d36eea104a39120ee78056a5d72 *R/platform_design_with_hierarchical_constrain.r
-10a8c011204298de6469fc725e7d0889 *man/hc_platform.Rd
+52e7cf650608b37774b963c970adc465 *DESCRIPTION
+15d78ac0aaba2ff69511a019ba8d6462 *NAMESPACE
+ef5a27fdd2a68db185a1ad4c7356f107 *R/platform_midas2.R
+e275d9be338343a0bc1b3c2f1ed580fe *R/platform_midas2s.R
+31965601388e649e327f6dc7282a82ab *man/platform_midas2.Rd
+2fc732c33f316c364c02a3b32cbebc5a *man/platform_midas2s.Rd
